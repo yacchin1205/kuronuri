@@ -11,3 +11,4 @@ wheels/
 
 # Documents
 *.pdf
+.python-version
