@@ -42,3 +42,7 @@ Options:
 - Recall is not guaranteed. The judge is a small zero-shot model; measure it on your own documents
   before relying on it, and inspect the output.
 - PyMuPDF is pinned below 2.0: that release shifts text that follows a redaction on the same line.
+
+## License
+
+AGPL-3.0-or-later. PyMuPDF, which performs the redaction, is itself AGPL-3.0.
